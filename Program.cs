@@ -39,6 +39,8 @@ class Program
         Console.WriteLine($"Total cost: {totalCost}");
         Console.WriteLine($"Discount: {discount}");
         Console.WriteLine($"Final cost: {finalCost}");
+                Console.WriteLine("I am testing");
+
     }
 
     static double CalculateCost(int numCoffeeBags)
