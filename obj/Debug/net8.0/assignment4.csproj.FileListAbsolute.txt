@@ -1,0 +1,14 @@
+D:\OneDrive\Desktop\assignment4\bin\Debug\net8.0\assignment4.exe
+D:\OneDrive\Desktop\assignment4\bin\Debug\net8.0\assignment4.deps.json
+D:\OneDrive\Desktop\assignment4\bin\Debug\net8.0\assignment4.runtimeconfig.json
+D:\OneDrive\Desktop\assignment4\bin\Debug\net8.0\assignment4.dll
+D:\OneDrive\Desktop\assignment4\bin\Debug\net8.0\assignment4.pdb
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.AssemblyInfo.cs
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.dll
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\refint\assignment4.dll
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.pdb
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\assignment4.genruntimeconfig.cache
+D:\OneDrive\Desktop\assignment4\obj\Debug\net8.0\ref\assignment4.dll
